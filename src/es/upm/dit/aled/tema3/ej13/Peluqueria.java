@@ -53,7 +53,7 @@ public class Peluqueria {
             return true;
         }
         
-        return false; // No debería llegar aquí, pero por si acaso
+        return false; // No debería llegarse aquí, pero por si acaso
     }
 
     /**

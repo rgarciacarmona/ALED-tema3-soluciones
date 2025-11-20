@@ -1,7 +1,7 @@
-package es.upm.dit.aled.tema3.ej13;
+package es.upm.dit.aled.tema3.ej14;
 
 /**
- * Ejercicio 13: Hebra que simula un cliente
+ * Ejercicio 2.14: Hebra que simula un cliente
  */
 public class Cliente implements Runnable {
 
@@ -16,7 +16,7 @@ public class Cliente implements Runnable {
         // El cliente intenta entrar
         boolean esAtendido = peluqueria.entrarPeluqueria();
         
-     // Si ha conseguido sitio (no se ha ido)
+        // Si ha conseguido sitio (no se ha ido)
         if (esAtendido) {
             // Simula el corte de pelo (mientras "ocupa" la silla)
             peluqueria.simularCortePelo();

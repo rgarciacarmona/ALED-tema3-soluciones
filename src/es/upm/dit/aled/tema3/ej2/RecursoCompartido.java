@@ -1,4 +1,4 @@
-package es.upm.dit.aled.tema3.ej1;
+package es.upm.dit.aled.tema3.ej2;
 
 /**
  * Ejercicio 1: Monitor

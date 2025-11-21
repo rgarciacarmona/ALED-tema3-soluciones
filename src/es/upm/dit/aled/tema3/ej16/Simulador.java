@@ -8,7 +8,7 @@ public class Simulador {
         Peluqueria peluqueria = new Peluqueria();
         Random rand = new Random();
         
-        System.out.println("--- Iniciando Simulación 2.15 (3 Peluqueros, Sofás, Bar) ---");
+        System.out.println("--- Iniciando Simulación 2.16 (3 Peluqueros, Sofás, Bar, Caja) ---");
         
         // Crear e iniciar los 3 peluqueros
         new Thread(new Peluquero(peluqueria, true), "Sir Patrick").start();

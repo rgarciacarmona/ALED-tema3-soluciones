@@ -2,7 +2,7 @@ package es.upm.dit.aled.tema3.ej14;
 import java.util.Random;
 
 /**
- * Ejercicio 2.14: Simulador principal.
+ * Ejercicio 14: Simulador principal.
  */
 public class Simulador {
     

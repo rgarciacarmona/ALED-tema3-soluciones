@@ -3,7 +3,7 @@ package es.upm.dit.aled.tema3.ej13;
 /**
  * Ejercicio 13: Hebra que simula un cliente
  */
-public class Cliente implements Runnable {
+public class Cliente extends Thread {
 
     private Peluqueria peluqueria;
 

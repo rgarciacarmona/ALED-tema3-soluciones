@@ -2,7 +2,7 @@ package es.upm.dit.aled.tema3.ej14;
 import java.util.Random;
 
 /**
- * Ejercicio 2.14: Monitor que gestiona la peluquería
+ * Ejercicio 14: Monitor que gestiona la peluquería
  * 
  * 1 Silla
  * 5 Sofás
